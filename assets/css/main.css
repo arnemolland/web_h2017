@@ -2303,6 +2303,11 @@ input[type="radio"]:focus+label:before {
     width: 100%;
 }
 
+img.resize {
+    max-width: 30%;
+    max-height: 30%;
+}
+
 
 /* Lister */
 
